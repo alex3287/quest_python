@@ -16,11 +16,17 @@
 .section{
   padding-top: 20px;
   padding-bottom: 20px;
-  
 }
 
 .pic{
+  width: auto;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+
+@media screen and (max-width: 530px) {
+  .pic {width: 300px;}
+  h2 {font-size: 25px;}
+ }
