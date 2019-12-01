@@ -18,3 +18,9 @@
   padding-bottom: 20px;
   
 }
+
+.pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
