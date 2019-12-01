@@ -1,14 +1,8 @@
-.hero {
-  color: #ffffff;
-  background-color: #ff0000;
-}
 
 .text3{
   border:2px solid rgb(31, 27, 27);
   color: aqua;
 }
-
-
 
 .btn4{
   margin-top: 40px;
@@ -17,4 +11,10 @@
   margin-right: 40px;
   color: #ffffff;
   background-color: rgb(55, 206, 55);
+}
+
+.section{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
 }
